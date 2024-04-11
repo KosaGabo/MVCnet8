@@ -1,0 +1,17 @@
+# .NET Core
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet Packages
+*.nupkg
+*.paket
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
